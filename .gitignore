@@ -1,0 +1,5 @@
+venv/
+token.txt
+bot.log
+__pycache__/
+.DS_Store
